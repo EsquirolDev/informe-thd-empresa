@@ -1,4 +1,4 @@
-## 3.2 Cloud computing
+## 4 Cloud computing
 
 **Definición:** El cloud computing (computación en la nube) consiste en ofrecer recursos informáticos (servidores, almacenamiento, bases de datos, redes, software o IA) a través de internet y bajo demanda. El cliente no compra ni mantiene su propio hardware: alquila lo que necesita y paga según el uso.
 
