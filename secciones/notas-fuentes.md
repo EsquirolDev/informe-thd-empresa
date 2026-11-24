@@ -17,8 +17,6 @@
 
 ## THD 2: Cloud computing (04-cloud.md)
 
-## THD 2: Cloud computing (04-cloud.md)
-
 7. Google Cloud, *Cloud locations*. https://cloud.google.com/about/locations — consultado el 24/11/2026.
 8. Google Cloud, *Manufacturing Data Engine*. https://cloud.google.com/solutions/manufacturing-data-engine — consultado el 24/11/2026.
 9. Google Cloud Docs, *Manufacturing Data Engine overview*. https://docs.cloud.google.com/manufacturing-data-engine/docs/overview — consultado el 24/11/2026.
